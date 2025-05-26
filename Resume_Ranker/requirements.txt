@@ -1,0 +1,9 @@
+bertopic
+umap-learn
+hdbscan
+scikit-learn
+pandas
+matplotlib
+gdown
+numpy
+tqdm
