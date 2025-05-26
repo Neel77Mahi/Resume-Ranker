@@ -29,7 +29,7 @@ Files include:
 
 ### Option 1: Use in Google Colab
 
-You can run the notebook directly in [Google Colab]([[https://colab.research.google.com/](https://colab.research.google.com/drive/13fKvhO0rKVRqCYA0CIjSKodHZGcA3ijw?usp=sharing)]):
+You can run the notebook directly in [Google Colab](https://colab.research.google.com/drive/13fKvhO0rKVRqCYA0CIjSKodHZGcA3ijw?usp=sharing):
 ```
 # Install required tools
 
