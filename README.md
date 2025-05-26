@@ -34,14 +34,14 @@ You can run the notebook directly in [Google Colab](https://colab.research.googl
 # Install required tools
 ```
 !pip install gdown
-```
+
 # Download from Google Drive
-```
+
 import gdown, zipfile
 gdown.download_folder("https://drive.google.com/drive/folders/1DQjgr5Rh40vHfrbBa6bf9eCc-e0Nycrs", quiet=False)
-```
+
 # Unzip models
-```
+
 with zipfile.ZipFile("sentence_bert_model.zip", 'r') as zip_ref:
     zip_ref.extractall("sentence_bert_model")
 
