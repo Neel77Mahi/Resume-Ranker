@@ -49,7 +49,7 @@ with zipfile.ZipFile("tfidf_vectorizer.zip", 'r') as zip_ref:
     zip_ref.extractall("tfidf_vectorizer")
 ```
 
-Option 2: Run Locally
+###Option 2: Run Locally
 Clone the repo:
 ```
 git clone https://github.com/Neel77Mahi/Resume-Ranker.git
@@ -60,6 +60,8 @@ Install dependencies:
 pip install -r requirements.txt
 Manually download and extract the model files from the Drive link into the project directory.
 ```
+---
+
 🛠️ Requirements
 
 bertopic
