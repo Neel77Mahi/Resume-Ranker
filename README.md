@@ -29,7 +29,7 @@ Files include:
 
 ### Option 1: Use in Google Colab
 
-You can run the notebook directly in [Google Colab](https://colab.research.google.com/):
+You can run the notebook directly in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/13fKvhO0rKVRqCYA0CIjSKodHZGcA3ijw?usp=sharing)):
 
 # Install required tools
 ```
@@ -49,7 +49,7 @@ with zipfile.ZipFile("tfidf_vectorizer.zip", 'r') as zip_ref:
     zip_ref.extractall("tfidf_vectorizer")
 ```
 
-###Option 2: Run Locally
+### Option 2: Run Locally
 Clone the repo:
 ```
 git clone https://github.com/Neel77Mahi/Resume-Ranker.git
